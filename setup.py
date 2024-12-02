@@ -19,8 +19,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='final project',
 version='0.0.1',
-author='Krish',
-author_email='krishnaik06@gmail.com',
+author='Rushikesh',
+author_email='rushikeshgaikhe09@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
